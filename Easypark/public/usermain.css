@@ -1,0 +1,255 @@
+
+/* Center the main content */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px; /* Changed from 20px */
+    color: #fff;
+   font-family: 'Noto Sans', sans-serif;
+
+}
+.container-md {
+    border-radius: 50px;
+}
+
+.card {
+    width: 50%;
+    max-width: 600px;
+    height: 150px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 50px;
+    text-align: center;
+}
+
+/* Style the balance message */
+.card h2 {
+  font-size: 2rem;
+  margin-top: 20px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.card h3 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+/* Style the buttons */
+.btn {
+    margin-right: 1rem;
+}
+
+/* Set the background color */
+body {
+    background-color: #f5f5f5;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+/* Style the balance container */
+.balance-container {
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+
+/* Style the button container */
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.balance-container h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.balance-container p {
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+
+.dropdown {
+  position: relative;
+  
+}
+
+.dropdown-toggle {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: #ffffff;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.dropdown-toggle:focus {
+  outline: none;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  padding: 1rem;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  z-index: 999;
+}
+
+.dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  background-color: #00008b;
+}
+
+.panel-slider {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: #00008b;
+}
+
+.panel-slider p {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color:white;
+}
+
+.panel-slider p:last-child {
+  font-weight: normal;
+}
+
+.logout-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.logout-button {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  color: #00008b;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #ff0000;
+  color: #fff;
+  border-color: #ff0000;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+    flex-direction: column; /* Add this property to stack items vertically */
+}
+
+.button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    max-width: 1000px;
+    width: 30%; /* Add this property to maximize button width */
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.button:active {
+    transform: scale(0.98);
+}
+
+.button:first-child {
+    background-color: #fff;
+    color: #000;
+}
+
+.button:last-child {
+    background-color: #2F58CD;
+    color: #000;
+}
+
+
+@media screen and (min-width: 400px) and (max-width: 576px) {
+  .card {
+    width: 90%;
+    font-size: 0.8rem;
+  }
+  h1 {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  .card {
+    width: 80%;
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .card {
+    width: 60%;
+    font-size: 1.2rem;
+  }
+  h1 {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .card {
+    width: 40%;
+    font-size: 1.4rem;
+  }
+  h1 {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .card {
+    width: 30%;
+    font-size: 1.6rem;
+  }
+  h1 {
+    font-size: 10px;
+  }
+}

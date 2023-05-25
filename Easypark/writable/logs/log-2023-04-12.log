@@ -1,0 +1,480 @@
+CRITICAL - 2023-04-12 02:30:00 --> Call to undefined function App\Controllers\sesssion()
+in APPPATH/Controllers/Homepage.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Homepage->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:54:22 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:54:22 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:54:27 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:54:27 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:28 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:28 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:29 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:29 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:30 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:30 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:30 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:30 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:31 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:31 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:38 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:38 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:55:44 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:55:44 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:56:02 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:56:02 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:56:34 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:56:34 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:58:10 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:58:10 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 02:58:35 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 02:58:35 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:12:25 --> syntax error, unexpected string content ") ?>" class="btn btn-primary b...", expecting ")"
+in APPPATH/Views/users.php on line 43.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Users.php(12): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Users->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:12:26 --> syntax error, unexpected string content ") ?>" class="btn btn-primary b...", expecting ")"
+in APPPATH/Views/users.php on line 43.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Users.php(12): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Users->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:12:27 --> syntax error, unexpected string content ") ?>" class="btn btn-primary b...", expecting ")"
+in APPPATH/Views/users.php on line 43.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Users.php(12): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Users->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:12:30 --> syntax error, unexpected string content ") ?>" class="btn btn-primary b...", expecting ")"
+in APPPATH/Views/users.php on line 43.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Users.php(12): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Users->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:12:55 --> syntax error, unexpected string content ") ?>" class="btn btn-primary b...", expecting ")"
+in APPPATH/Views/users.php on line 43.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Users.php(12): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Users->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 03:14:47 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 03:14:47 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 03:20:45 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/AdminViewController.php(16): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\AdminViewController->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 03:20:45 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/AdminViewController.php(16): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AdminViewController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-12 03:21:17 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/AdminViewController.php(16): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\AdminViewController->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-12 03:21:17 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/AdminViewController.php(16): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AdminViewController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:36:17 --> Undefined constant "App\Controllers\user"
+in APPPATH/Controllers/Homepage.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Homepage->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:36:19 --> Undefined constant "App\Controllers\user"
+in APPPATH/Controllers/Homepage.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Homepage->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:36:19 --> Undefined constant "App\Controllers\user"
+in APPPATH/Controllers/Homepage.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Homepage->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:45:00 --> Undefined constant "App\Controllers\redirect"
+in APPPATH/Controllers/Dashboard.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:49:38 --> syntax error, unexpected token "else", expecting "function" or "const"
+in APPPATH/Controllers/Dashboard.php on line 27.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:50:49 --> Object of class CodeIgniter\Session\Session could not be converted to string
+in APPPATH/Controllers/Dashboard.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 03:50:56 --> Object of class CodeIgniter\Session\Session could not be converted to string
+in APPPATH/Controllers/Dashboard.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

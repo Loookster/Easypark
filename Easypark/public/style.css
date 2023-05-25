@@ -1,0 +1,127 @@
+/* Modal styles */
+
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Table row styles */
+.edit-row {
+    cursor: pointer;
+}
+
+.edit-row:hover {
+    background-color: #f5f5f5;
+}
+
+.sidenav {
+  background-color: #fff;
+  background-image: url('EASYPARK.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.sidenav-logo img {
+  width: 100px;
+}
+
+.sidenav-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+/* Style for the navigation menu links */
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #0062cc;
+    display: block;
+ 
+}
+
+/* Style for the navigation menu links when hovered over */
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+/* Style for the main content area */
+.main {
+    margin-left: 200px;
+    padding: 20px;
+}
+/* Style for the parking viewing content area */
+.parking-layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+  }
+  
+  .parking-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .parking-slot {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.parking-slot.free {
+    background-color: green;
+}
+
+.parking-slot.taken {
+    background-color: red;
+}
+  
+  .left-parking {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .right-parking {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+  }
+
+  .parking-slot:hover {
+    opacity: 0.7;
+  }

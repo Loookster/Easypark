@@ -1,0 +1,941 @@
+CRITICAL - 2023-04-17 05:48:55 --> fopen(public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 17.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(17): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:51:20 --> fopen(public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:53:37 --> fopen(/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:53:38 --> fopen(/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:54:37 --> fopen(/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:54:38 --> fopen(/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:54:38 --> fopen(/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:57:16 --> fopen(/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 05:59:05 --> fopen(public_html/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:02:09 --> fopen(./public_html/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:04:58 --> fopen(./public_html/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:10:16 --> fopen(./public_html/public/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:20 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:13:21 --> fopen(./path/to/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:20:37 --> fopen(/files/public_html/writable/uploads/): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:10 --> fopen(/files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:11 --> fopen(/files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:11 --> fopen(/files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:11 --> fopen(/files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:12 --> fopen(/files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:39 --> fopen(./public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:52 --> fopen(./files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:21:53 --> fopen(./files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:29:03 --> fopen(./files/public_html/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:31:31 --> Call to undefined function App\Controllers\read_file()
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:33:00 --> fopen(/home/u678076972/domains/easypark.tech/public_html/writable/writable/uploads/notepad.txt): Failed to open stream: No such file or directory
+in APPPATH/Controllers/EntryController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/EntryController.php(18): fopen()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:33:52 --> Undefined variable $rfid
+in APPPATH/Controllers/EntryController.php on line 46.
+ 1 APPPATH/Controllers/EntryController.php(46): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:35:47 --> syntax error, unexpected variable "$userModel"
+in APPPATH/Controllers/EntryController.php on line 46.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 06:36:15 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(59): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 06:36:15 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(59): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:38:16 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(59): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:39:57 --> syntax error, unexpected token "="
+in APPPATH/Controllers/EntryController.php on line 44.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:40:07 --> syntax error, unexpected token "="
+in APPPATH/Controllers/EntryController.php on line 44.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:40:28 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(60): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:41:59 --> Array to string conversion
+in APPPATH/Controllers/EntryController.php on line 49.
+ 1 APPPATH/Controllers/EntryController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:44:23 --> Array to string conversion
+in APPPATH/Controllers/EntryController.php on line 49.
+ 1 APPPATH/Controllers/EntryController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:44:26 --> Array to string conversion
+in APPPATH/Controllers/EntryController.php on line 49.
+ 1 APPPATH/Controllers/EntryController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:44:55 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:44:56 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:44:57 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:44:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:45:19 --> Array to string conversion
+in APPPATH/Controllers/EntryController.php on line 50.
+ 1 APPPATH/Controllers/EntryController.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:48:08 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:49:45 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:51:04 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:51:05 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:51:07 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:51:27 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:52:19 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:52:20 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:52:20 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:52:21 --> syntax error, unexpected identifier "to"
+in APPPATH/Controllers/EntryController.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:53:00 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:55:33 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(62): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:55:54 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(63): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:56:13 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(63): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:56:20 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(62): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:57:16 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(62): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:59:35 --> syntax error, unexpected variable "$parkingModel", expecting "," or ";"
+in APPPATH/Controllers/EntryController.php on line 60.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:59:39 --> syntax error, unexpected variable "$parkingModel", expecting "," or ";"
+in APPPATH/Controllers/EntryController.php on line 60.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 06:59:40 --> syntax error, unexpected variable "$parkingModel", expecting "," or ";"
+in APPPATH/Controllers/EntryController.php on line 60.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:00:33 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(63): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:00:44 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(63): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:09:20 --> syntax error, unexpected token "=", expecting "]"
+in APPPATH/Controllers/EntryController.php on line 61.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:10:05 --> syntax error, unexpected variable "$parkingModel"
+in APPPATH/Controllers/EntryController.php on line 65.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:10:47 --> Call to undefined function App\Controllers\save()
+in APPPATH/Controllers/EntryController.php on line 65.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:10:48 --> Call to undefined function App\Controllers\save()
+in APPPATH/Controllers/EntryController.php on line 65.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:20:41 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/EntryController.php(61): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:25:01 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH/Controllers/EntryController.php on line 65.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:25:28 --> Undefined variable $id
+in APPPATH/Controllers/EntryController.php on line 60.
+ 1 APPPATH/Controllers/EntryController.php(60): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:28:50 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 59.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 07:31:32 --> mysqli_sql_exception: Column 'Plate_NO' cannot be null in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(67): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 07:31:32 --> Column 'Plate_NO' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(67): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 07:32:03 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(67): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 07:32:03 --> Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(67): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:32:07 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:32:13 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:32:18 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:33:31 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:33:57 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 07:34:14 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 07:34:14 --> Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:35:34 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:35:37 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:35:48 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:35:48 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:35:49 --> Undefined variable $userId
+in APPPATH/Controllers/TransactionController.php on line 20.
+ 1 APPPATH/Controllers/TransactionController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\TransactionController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 07:36:25 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON UPDATE CASCADE) in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 07:36:25 --> Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON UPDATE CASCADE)
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 07:37:04 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON UPDATE NO ACTION) in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 07:37:04 --> Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 07:37:05 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON UPDATE NO ACTION) in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\EntryController->index()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-17 07:37:05 --> Cannot add or update a child row: a foreign key constraint fails (`u678076972_easy_park`.`parking_users`, CONSTRAINT `parking_users` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/EntryController.php(66): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:43:52 --> Undefined variable $rfid
+in APPPATH/Views/Entryview.php on line 9.
+ 1 APPPATH/Views/Entryview.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Entryview.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/EntryController.php(80): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:04:52 --> syntax error, unexpected token ","
+in APPPATH/Controllers/EntryController.php on line 67.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:05:26 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 67.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:05:28 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 67.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:07:25 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:08:06 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:46:13 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:46:52 --> Call to undefined function App\Controllers\find()
+in APPPATH/Controllers/EntryController.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:48:21 --> Cannot use object of type App\Models\ParkingMonitorModel as array
+in APPPATH/Controllers/EntryController.php on line 67.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 08:51:15 --> Array to string conversion
+in APPPATH/Controllers/EntryController.php on line 73.
+ 1 APPPATH/Controllers/EntryController.php(73): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EntryController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

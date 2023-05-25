@@ -1,0 +1,125 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #f2f2f2;
+}
+/* CSS for sidenav */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  padding-top: 60px;
+}
+
+.sidenav img {
+  width: 100%;
+  display: block;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #13F66;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #fff; 
+  background-color: #1E90FF; 
+}
+
+.main {
+  margin-left: 200px; 
+  padding: 30px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.card {
+    border-radius:10px;
+}
+.card-header {
+  background-color: #FFF;
+  color: #1E90FF;
+  font-size: 48px;
+  font-weight: bold;
+  border-bottom: none;
+  border-radius:100px;
+}
+/* CSS for table */
+.table {
+width: 100%;
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+.table thead th {
+background-color: #000;
+color: #fff;
+font-weight: bold;
+text-align: left;
+padding: 10px;
+border-bottom: 2px solid #fff;
+}
+
+.table tbody td {
+padding: 10px;
+border-bottom: 1px solid #ccc;
+}
+
+.table tbody tr:last-child td {
+border-bottom: none;
+}
+
+/* CSS for pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.pagination li {
+  list-style: none;
+  margin: 0 5px;
+}
+
+.pagination li a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+}
+
+.pagination li a:hover {
+  background-color: #333;
+  color: #fff;
+  border-color: #333;
+}
+
+/* CSS for modal */
+.modal-dialog {
+  max-width: 500px;
+}
+
+.modal-body label {
+  display: inline-block;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.modal-body input {
+  width: 300px;
+  padding: 5px;
+  margin-bottom: 10px;
+}

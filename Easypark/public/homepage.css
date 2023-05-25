@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+    flex-direction: column; /* Add this property to stack items vertically */
+}
+
+.button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    max-width: 1000px;
+    width: 30%; /* Add this property to maximize button width */
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.button:active {
+    transform: scale(0.98);
+}
+
+.button:first-child {
+    background-color: #fff;
+    color: #000;
+}
+
+.button:last-child {
+    background-color: #2F58CD;
+    color: #000;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%; 
+    }
+    .button {
+        width: 80%; 
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        width: 80%; 
+    }
+    .button {
+        width: 40%; 
+    }
+}
+
+@media (min-width: 1025px) {
+    .container {
+        width: 70%; 
+    }
+    .button {
+        width: 25%; 
+    }
+}

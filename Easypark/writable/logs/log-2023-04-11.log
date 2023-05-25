@@ -1,0 +1,344 @@
+CRITICAL - 2023-04-11 03:33:02 --> syntax error, unexpected token "if"
+in APPPATH/Config/Routes.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:34:12 --> syntax error, unexpected token "if"
+in APPPATH/Config/Routes.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:34:27 --> syntax error, unexpected token "if"
+in APPPATH/Config/Routes.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:35:18 --> syntax error, unexpected token "if"
+in APPPATH/Config/Routes.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:35:26 --> syntax error, unexpected token "if"
+in APPPATH/Config/Routes.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:35:28 --> syntax error, unexpected token "if"
+in APPPATH/Config/Routes.php on line 66.
+ 1 SYSTEMPATH/CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:38:29 --> Undefined variable $_SESSION
+in APPPATH/Controllers/UserDashboard.php on line 17.
+ 1 APPPATH/Controllers/UserDashboard.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:42:56 --> Undefined variable $_SESSION
+in APPPATH/Controllers/UserDashboard.php on line 17.
+ 1 APPPATH/Controllers/UserDashboard.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:43:02 --> Undefined variable $_SESSION
+in APPPATH/Controllers/UserDashboard.php on line 17.
+ 1 APPPATH/Controllers/UserDashboard.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:43:54 --> Undefined variable $_SESSION
+in APPPATH/Controllers/UserDashboard.php on line 17.
+ 1 APPPATH/Controllers/UserDashboard.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:45:56 --> Cannot use object of type CodeIgniter\Session\Session as array
+in APPPATH/Controllers/UserDashboard.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:48:39 --> Undefined variable $_session
+in APPPATH/Controllers/UserDashboard.php on line 19.
+ 1 APPPATH/Controllers/UserDashboard.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:51:41 --> Undefined variable $session
+in APPPATH/Controllers/UserDashboard.php on line 17.
+ 1 APPPATH/Controllers/UserDashboard.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:52:54 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:52:54 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:52:56 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:52:59 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:54:37 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:54:45 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:55:08 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:55:08 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:55:08 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 03:55:08 --> Undefined constant "App\Controllers\console"
+in APPPATH/Controllers/LoginController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 04:26:12 --> Undefined variable $session
+in APPPATH/Controllers/UserDashboard.php on line 10.
+ 1 APPPATH/Controllers/UserDashboard.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UserDashboard->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 04:37:57 --> Class "App\Controllers\Controller" not found
+in APPPATH/Controllers/UpdateBalanceController.php on line 9.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 5 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 6 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 04:39:31 --> Undefined array key "balance"
+in APPPATH/Controllers/UpdateBalanceController.php on line 19.
+ 1 APPPATH/Controllers/UpdateBalanceController.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UpdateBalanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 04:39:32 --> Undefined array key "balance"
+in APPPATH/Controllers/UpdateBalanceController.php on line 19.
+ 1 APPPATH/Controllers/UpdateBalanceController.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UpdateBalanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 04:39:33 --> Undefined array key "balance"
+in APPPATH/Controllers/UpdateBalanceController.php on line 19.
+ 1 APPPATH/Controllers/UpdateBalanceController.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UpdateBalanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 04:40:47 --> Undefined array key "balance"
+in APPPATH/Controllers/UpdateBalanceController.php on line 18.
+ 1 APPPATH/Controllers/UpdateBalanceController.php(18): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UpdateBalanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 05:01:05 --> Undefined array key "balance"
+in APPPATH/Controllers/UpdateBalanceController.php on line 20.
+ 1 APPPATH/Controllers/UpdateBalanceController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UpdateBalanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 05:01:09 --> Undefined array key "balance"
+in APPPATH/Controllers/UpdateBalanceController.php on line 20.
+ 1 APPPATH/Controllers/UpdateBalanceController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\UpdateBalanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-11 07:21:13 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-11 07:21:13 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-11 07:21:20 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-11 07:21:20 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-11 07:21:26 --> mysqli_sql_exception: Table 'u678076972_easy_park.Parking_users' doesn't exist in /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/u678076972/domains/easypark.tech/public_html/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u678076972/domains/easypark.tech/public_html/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u678076972/domains/easypark.tech/public_html/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u678076972/domains/easypark.tech/public_html/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/u678076972/domains/easypark.tech/public_html/app/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+#8 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/u678076972/domains/easypark.tech/public_html/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u678076972/domains/easypark.tech/public_html/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-11 07:21:26 --> Table 'u678076972_easy_park.Parking_users' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/ParkingMonitor.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ParkingMonitor->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:03:47 --> Invalid file: "slots_view.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/SlotsController.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:03:49 --> Invalid file: "slots_view.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/SlotsController.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:06:49 --> Invalid file: "slots_view.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/SlotsController.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:37:19 --> Undefined variable $data
+in APPPATH/Controllers/SlotsController.php on line 17.
+ 1 APPPATH/Controllers/SlotsController.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:37:36 --> Undefined variable $data
+in APPPATH/Controllers/SlotsController.php on line 17.
+ 1 APPPATH/Controllers/SlotsController.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:37:37 --> Undefined variable $data
+in APPPATH/Controllers/SlotsController.php on line 17.
+ 1 APPPATH/Controllers/SlotsController.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:37:37 --> Undefined variable $data
+in APPPATH/Controllers/SlotsController.php on line 17.
+ 1 APPPATH/Controllers/SlotsController.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:37:38 --> Undefined variable $data
+in APPPATH/Controllers/SlotsController.php on line 17.
+ 1 APPPATH/Controllers/SlotsController.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 13:38:02 --> Undefined variable $data
+in APPPATH/Controllers/SlotsController.php on line 17.
+ 1 APPPATH/Controllers/SlotsController.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SlotsController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

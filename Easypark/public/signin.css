@@ -1,0 +1,79 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #f2f2f2;
+}
+
+.msg {
+    color: red;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+form {
+  margin: 20px auto;
+  max-width: 400px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
+
+input[type="text"],
+input[type="password"],
+input[name="email_or_username"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #FAFAFA;
+  box-sizing: border-box; 
+}
+
+input::placeholder {
+  color: #ccc;
+}
+
+button[type="submit"] {
+  background-color: #00008b;
+  color: white;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  transition: background-color 0.3s ease-in-out;
+}
+
+a.btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a.btn:hover, button[type="submit"]:hover {
+  opacity: 1;
+  background-color: #0062cc;
+} 
+
+.text-primary {
+  font-weight: bold;
+  color: #00008b ;
+}
+
+.text-dont{
+ color: gray;
+}
